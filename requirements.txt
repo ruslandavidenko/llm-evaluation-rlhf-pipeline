@@ -1,0 +1,8 @@
+openai
+transformers
+torch
+pandas
+numpy
+fastapi
+pytest
+scikit-learn
