@@ -1,0 +1,18 @@
+[
+    {
+        "prompt": "Explain reinforcement learning from human feedback.",
+        "response": "RLHF is a machine learning alignment technique that uses human feedback to optimize model behavior."
+    },
+    {
+        "prompt": "What is a Graph Neural Network?",
+        "response": "A Graph Neural Network is a deep learning architecture designed for graph-structured data."
+    },
+    {
+        "prompt": "Explain hallucination in large language models.",
+        "response": "Hallucination occurs when a language model generates false or misleading information presented as factual."
+    },
+    {
+        "prompt": "Describe AI safety alignment.",
+        "response": "AI alignment focuses on ensuring AI systems behave according to human goals and safety requirements."
+    }
+]
